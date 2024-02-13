@@ -1,11 +1,4 @@
 
-/* Your CSS Code here. */
-img{
-	width:100px;
-	height:100px;
-
-	
-}
 .row-1{
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
