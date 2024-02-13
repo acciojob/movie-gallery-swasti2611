@@ -1,25 +1,11 @@
 
-.row-1{
-	display: grid;
-	grid-template-columns: repeat(12, 1fr);
+/* Your CSS Code here. */
+img{
+	width:100px;
+	height:100px;
 
-
+	
 }
-.row-2{
-	display: grid;
-	grid-template-columns: repeat(6, 2fr);
-
-
-}
-.row-3{
-	display: grid;
-	grid-template-columns: repeat(3, 4fr);
-
-
-}
-.row-4{
-	display: grid;
-	grid-template-columns: repeat(1, 12fr);
-
-
+.row{
+	
 }
